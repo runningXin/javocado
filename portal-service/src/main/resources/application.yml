@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: portal-service
+
+weather:
+  api:
+    key: d8a4edcc797ddbad94bbbc97124b4b48
